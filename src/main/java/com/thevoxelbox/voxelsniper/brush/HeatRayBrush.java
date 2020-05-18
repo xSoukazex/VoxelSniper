@@ -79,16 +79,6 @@ public class HeatRayBrush extends Brush {
         HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.FIRE);
         HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.OAK_STAIRS);
         HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.WHEAT);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.ACACIA_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.BIRCH_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.DARK_OAK_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.JUNGLE_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.OAK_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.ACACIA_WALL_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.BIRCH_WALL_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.DARK_OAK_WALL_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.JUNGLE_WALL_SIGN);
-        HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.OAK_WALL_SIGN);
         HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.OAK_DOOR);
         HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.LADDER);
         HeatRayBrush.FLAMMABLE_BLOCKS.add(Material.OAK_PRESSURE_PLATE);

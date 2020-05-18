@@ -29,16 +29,6 @@ public class BlockResetSurfaceBrush extends Brush {
     private static final ArrayList<Material> DENIED_UPDATES = new ArrayList<Material>();
 
     static {
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.ACACIA_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.BIRCH_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.DARK_OAK_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.JUNGLE_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.OAK_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.ACACIA_WALL_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.BIRCH_WALL_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.DARK_OAK_WALL_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.JUNGLE_WALL_SIGN);
-        BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.OAK_WALL_SIGN);
         BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.CHEST);
         BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.FURNACE);
         BlockResetSurfaceBrush.DENIED_UPDATES.add(Material.REDSTONE_TORCH);

@@ -48,7 +48,6 @@ public class EntityRemovalBrush extends Brush {
         exclusionList.add(EntityType.PAINTING);
         exclusionList.add(EntityType.PLAYER);
         exclusionList.add(EntityType.VILLAGER);
-        exclusionList.add(EntityType.WANDERING_TRADER);
 
     }
 

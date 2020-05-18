@@ -157,12 +157,10 @@ public class MaterialTranslator {
         legacyMaterialIds.put("60", Material.FARMLAND);
         legacyMaterialIds.put("61", Material.FURNACE);
         legacyMaterialIds.put("62", Material.FURNACE); // TODO set burning
-        legacyMaterialIds.put("63", Material.OAK_SIGN); // TODO add other wood data values
         legacyMaterialIds.put("64", Material.OAK_DOOR); // TODO add other wood data values
         legacyMaterialIds.put("65", Material.LADDER);
         legacyMaterialIds.put("66", Material.RAIL);
         legacyMaterialIds.put("67", Material.COBBLESTONE_STAIRS);
-        legacyMaterialIds.put("68", Material.OAK_WALL_SIGN); // TODO add other wood data values
         legacyMaterialIds.put("69", Material.LEVER);
         legacyMaterialIds.put("70", Material.STONE_PRESSURE_PLATE);
         legacyMaterialIds.put("71", Material.IRON_DOOR);
